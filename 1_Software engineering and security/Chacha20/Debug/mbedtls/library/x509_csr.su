@@ -1,0 +1,7 @@
+C:\Users\josue\Documents\MCUXpressoIDE_11.6.0_8187\workspace\FRDMK64F_CHACHA20\mbedtls\include/mbedtls/error.h:157:19:mbedtls_error_add	16	static
+../mbedtls/library/x509_csr.c:62:12:x509_csr_get_version	32	static
+../mbedtls/library/x509_csr.c:85:5:mbedtls_x509_csr_parse_der	64	static
+../mbedtls/library/x509_csr.c:257:5:mbedtls_x509_csr_parse	64	static
+../mbedtls/library/x509_csr.c:331:5:mbedtls_x509_csr_info	64	static
+../mbedtls/library/x509_csr.c:374:6:mbedtls_x509_csr_init	16	static
+../mbedtls/library/x509_csr.c:382:6:mbedtls_x509_csr_free	24	static

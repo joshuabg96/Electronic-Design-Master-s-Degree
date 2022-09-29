@@ -1,0 +1,11 @@
+C:\Users\josue\Documents\MCUXpressoIDE_11.6.0_8187\workspace\FRDMK64F_CHACHA20_mbedtls_benchmark\CMSIS/core_cm4.h:1809:22:__NVIC_SetPriority	8	static
+C:\Users\josue\Documents\MCUXpressoIDE_11.6.0_8187\workspace\FRDMK64F_CHACHA20_mbedtls_benchmark\CMSIS/core_cm4.h:2017:26:SysTick_Config	16	static
+../source/benchmark.c:278:12:myrand	32	static
+../source/benchmark.c:317:6:ecp_clear_precomputed	24	static
+../source/benchmark.c:341:12:set_ecp_curve	24	static
+../source/benchmark.c:375:6:SysTick_Handler	0	static
+../source/benchmark.c:380:17:benchmark_mbedtls_timing_hardclock	72	static
+../source/benchmark.c:396:13:benchmark_mbedtls_set_alarm	40	static
+../source/benchmark.c:402:13:benchmark_mbedtls_poll_alarm	8	static
+../source/benchmark.c:411:12:bench_print_features	16	static
+../source/benchmark.c:507:5:main	368	static
